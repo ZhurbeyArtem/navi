@@ -1,5 +1,5 @@
 import { describe, it, expect, vi, beforeEach, Mock } from 'vitest';
-import { screen, waitFor } from '@testing-library/react';
+import { screen} from '@testing-library/react';
 import Home from './Home';
 import { getHeroes } from '../../api';
 import { render } from '../../test/test-utils';
