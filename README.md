@@ -21,7 +21,7 @@ Technologies Used
     Vite: For fast and optimized development experience.
 
 How to set up
-     npm i
-     npm run dev
-For test
+     npm i   
+     npm run dev   
+For test   
      npm run test
